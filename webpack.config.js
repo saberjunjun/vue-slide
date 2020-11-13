@@ -7,7 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "./dist"), //输出路径dist目录
     publicPath: "/dist/",
-    filename: "slide.min.js", //打包后输出的文件名字,这里需要和package.json文件下main应该写为:'dist/toast.min.js'
+    filename: "vue-level-slide.min.js", //打包后输出的文件名字,这里需要和package.json文件下main应该写为:'dist/toast.min.js'
     libraryTarget: "umd",
     // 　libraryTarget：为了支持多种使用场景，我们需要选择合适的打包格式。libraryTarget 属性。这是可以控制 library 如何以不同方式暴露的选项。
     umdNamedDefine: true
