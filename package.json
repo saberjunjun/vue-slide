@@ -1,15 +1,15 @@
 {
-  "name": "vue-slide",
+  "name": "vue-level-slide",
   "version": "1.0.0",
   "description": "移动端左右滑动组件",
-  "main": "dist/slide.min.js",
+  "main": "dist/vue-level-slide.min.js",
   "author": "zhangpengfei",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot --inline",
     "build": "webpack --display-error-details --config webpack.config.js"
   },
+  "license": "ISC",
   "keywords": ["vue", "mobile"],
   "repository": {
     "type": "git",
