@@ -13,7 +13,7 @@
   "keywords": ["vue", "mobile"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/heyushuo/npm-package"
+    "url": "https://github.com/saberjunjun/vue-slide"
   },
   "dependencies": {
     "vue": "2.6.10"
